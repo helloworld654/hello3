@@ -1,0 +1,7 @@
+1、当用小爱控制设备时，在Blinker APP中只需要新建设备，不需要任何其他的操作？（比如新建开关、颜色组件）
+
+const char auth[] = "cd3216a3fdc2";
+const char ssid[] = "TP-LINK_0957";
+const char pswd[] = "HelloWorld123456";
+
+https://github.com/bilibilifmk?tab=repositories
